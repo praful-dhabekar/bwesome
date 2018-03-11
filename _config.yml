@@ -1,0 +1,11 @@
+# Basic Jekyll website
+title: bwesome
+author: Praful Dhabekar
+email: your-email@domain.com
+description: A wonderful blog.
+twitter_username: PrafulDhabekar
+github_username:  praful-dhabekar
+
+# Build settings
+markdown: kramdown
+theme: minima
