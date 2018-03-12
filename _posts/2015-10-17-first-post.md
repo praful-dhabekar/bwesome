@@ -2,6 +2,7 @@
 layout: post
 title: Where does Lorem Ipsum come from?
 author: warbot
+tags: lorem ipsum, text generator, tech, online tool 
 ---
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. 
